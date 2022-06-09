@@ -24,8 +24,6 @@ cog==0.0.3
 colorama==0.4.4
 colour==0.1.5
 commonmark==0.9.1
-cryptography==2.8
-cupshelpers==1.0
 cycler==0.11.0
 DateTime==4.3
 dbus-python==1.2.16
