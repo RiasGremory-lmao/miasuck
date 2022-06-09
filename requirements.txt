@@ -140,7 +140,6 @@ typer==0.3.2
 typing-extensions==3.10.0.0
 tzdata==2021.1
 tzlocal==3.0
-ubuntu-drivers-common==0.0.0
 ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.26.6
