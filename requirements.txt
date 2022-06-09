@@ -28,7 +28,6 @@ cycler==0.11.0
 DateTime==4.3
 dbus-python==1.2.16
 decorator==5.1.0
-defer==1.0.6
 Discord-Anti-Spam==0.9.0
 discord-components==2.1.1
 discord.py==1.7.3
