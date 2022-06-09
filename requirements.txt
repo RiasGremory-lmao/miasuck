@@ -21,7 +21,6 @@ click-default-group==1.2.2
 clock==0.1
 cloup==0.7.1
 cog==0.0.3
-Cogs==0.4.4
 colorama==0.4.4
 colour==0.1.5
 command-not-found==0.3
