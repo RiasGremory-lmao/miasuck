@@ -64,7 +64,6 @@ lockfile==0.12.2
 macaroonbakery==1.3.1
 Mako==1.1.0
 manim==0.12.0
-ManimPango==0.3.1
 mapbox-earcut==0.12.11
 Markdown==3.1.1
 MarkupSafe==1.1.0
